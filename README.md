@@ -1,8 +1,8 @@
 ## 
 # 人脸识别on区块链
 #
-# <img src="https://raw.githubusercontent.com/lawup/nasface/master/demo0.JPG" width="600px"/>
-# <img src="https://raw.githubusercontent.com/lawup/nasface/master/demo1.JPG" width="600px"/>
+# <img src="https://raw.githubusercontent.com/lawup/nasface/master/demo0.JPG" width="880px"/>
+# <img src="https://raw.githubusercontent.com/lawup/nasface/master/demo1.JPG" width="880px"/>
 # 
 ## http://180.76.136.150/
 ## http://NasFace.com （域名备案中，请先使用上述IP地址访问）
@@ -45,7 +45,7 @@
 ### php5.4 （需要打开exec()，即在PHP.ini中去掉disable_functions行的exec项）
 ### python3.5.3
 ### dlib19.4.0 （可下载安装编译好的whl文件dlib-19.4.0-cp35-cp35m-win_amd64.whl ，避免繁琐编译，下载链接：https://pan.baidu.com/s/1KSCF2r_Lt71l2aOpKoS0HA 密码：qn54 ）
-### dlib要用到的人脸库 shape_predictor_68_face_landmarks.dat 在这里下载 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 ，下载后放在本程序根目录中即可
+### dlib要用到的人脸库 shape_predictor_68_face_landmarks.dat 在[这里下载](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) ，下载后放在本程序根目录中即可
 ### 
 ### 
 ### 需要说明的是，本作品仅是个实验作品，有关人脸识别的准确率和区块链的运行效率及可行性，尚在探讨中。
