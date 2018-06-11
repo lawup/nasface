@@ -49,13 +49,15 @@ lenof2_36_45 = getlenof2(dx[36],dy[36],dx[45],dy[45])
 
 Ap1 = int((lenof2_36_45*10)//lenof2_39_42)
 Ap2 = int((lenof2_27_33*10)//lenof2_31_35)
-Ap3 = int((lenof2_39_42*10)//lenof2_27_33)
-Ap4 = int((lenof2_0_16*10)//lenof2_39_42)
-Ap5 = int((lenof2_33_51*10)//lenof2_57_8)
-Ap6 = int((lenof2_48_54*10)//lenof2_51_57)
-Ap7 = int((lenof2_66_33*10)//lenof2_36_45)
+#Ap3 = int((lenof2_39_42*10)//lenof2_27_33)
+#Ap4 = int((lenof2_0_16*10)//lenof2_39_42)
+#Ap5 = int((lenof2_33_51*10)//lenof2_57_8)
+#Ap6 = int((lenof2_48_54*10)//lenof2_51_57)
+#Ap7 = int((lenof2_66_33*10)//lenof2_36_45)
 
-Ap = str(Ap1)+'_'+str(Ap2)+'_'+str(Ap3)+'_'+str(Ap4)+'_'+str(Ap5)+'_'+str(Ap6)+'_'+str(Ap7)
+#Ap = str(Ap1)+'_'+str(Ap2)+'_'+str(Ap3)+'_'+str(Ap4)+'_'+str(Ap5)+'_'+str(Ap6)+'_'+str(Ap7)
+
+Ap = str(Ap1)+'_'+str(Ap2)
 
 print(Ap)
 
