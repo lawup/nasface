@@ -4,8 +4,7 @@
 # <img src="https://raw.githubusercontent.com/lawup/nasface/master/demo0.JPG" width="880px"/>
 # <img src="https://raw.githubusercontent.com/lawup/nasface/master/demo1.JPG" width="880px"/>
 # 
-## http://180.76.136.150/
-## http://NasFace.com （域名备案中，请先使用上述IP地址访问）
+## http://NasFace.com 或 http://180.76.136.150/
 ## 
 ### 本作品提供一套完整的【人脸识别】解决方案，并使用【区块链】存储和查询人脸特征数据，可广泛应用于各种场景，如【人脸锁】。
 ### 本作品区块链方案采用[星云链Nebulas](https://nebulas.io/)，请在开始使用前安装好[WebExtensionWallet](https://github.com/ChengOrangeJu/WebExtensionWallet)并创建账户后刷新，再开始操作。否则一系列的前期操作结果最终将无法与区块链交互，以至体验不到本作品运用区块链的核心意义。 
